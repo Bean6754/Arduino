@@ -1,2 +1,2 @@
 # Arduino
-Arduino C .ino files.
+Arduino C++ .ino files.
